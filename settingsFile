@@ -1,0 +1,7 @@
+minNPerBait 250
+tlb.minProxOEPerBin 50000
+tlb.minProxB2BPerBin 2500
+techNoise.minBaitsPerBin 500
+brownianNoise.seed 2345775
+brownianNoise.subset 1000
+brownianNoise.samples 5
